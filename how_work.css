@@ -1,0 +1,58 @@
+h1 {
+	text-align: center;
+	font-family: austin;
+	font-size: 50px;
+}
+
+li {
+	display: inline;
+	font-family: austin;
+}
+
+ul {
+	text-align: center;
+	font-size: 14px;
+}
+
+/* below gets rid of underlined links */
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+ 	color: black;
+}
+
+a:hover {
+	color: gray;
+	text-decoration: none;
+}
+
+p {
+	font-family: austin;
+	text-align: center;
+}
+
+#header{
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 63em
+}
+
+#header li{
+	width: 20%;
+	float: left;
+	white-space: nowrap;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }

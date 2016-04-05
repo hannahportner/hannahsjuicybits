@@ -1,33 +1,3 @@
-h1 {
-	text-align: center;
-	font-family: austin;
-	font-size: 50px;
-}
-
-li {
-	display: inline;
-	font-family: austin;
-}
-
-ul {
-	text-align: center;
-	font-size: 14px;
-}
-
-/* below gets rid of underlined links */
-
-a {
-	text-decoration: none;
-}
-
-a:visited {
- 	color: black;
-}
-
-a:hover {
-	color: gray;
-	text-decoration: none;
-}
 
 p {
 	font-family: austin;
@@ -55,13 +25,14 @@ span.icon-next{
 	position: relative;
 	height: 526px;
 	width: 90%;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 
 .carousel-control.left, .carousel-control.right {
 	background-image: none;
 }
+
 
 
 

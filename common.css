@@ -16,8 +16,6 @@ ul {
 	font-size: 14px;
 }
 
-/* below gets rid of underlined links */
-
 a {
 	text-decoration: none;
 }
@@ -36,25 +34,6 @@ p {
 	text-align: center;
 }
 
-#header{
-	width: 100%;
-	display: block;
-	clear: both;
+h1 a:hover {
+	color: black;
 }
-
-P.blocktext {
-    margin-left: auto;
-    margin-right: auto;
-    width: 63em
-}
-
-#header li{
-	width: 20%;
-	float: left;
-	white-space: nowrap;
-}
-
-IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
